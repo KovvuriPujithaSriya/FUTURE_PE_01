@@ -1,0 +1,13 @@
+Act as a website content writer.
+
+Create service page content for Skyline Travels.
+
+Include:
+
+1. Domestic Tour Packages
+2. International Tour Packages
+3. Flight Ticket Booking
+4. Hotel Reservations
+5. Holiday Planning
+
+Explain each service clearly.

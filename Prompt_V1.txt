@@ -1,0 +1,13 @@
+Act as a professional website copywriter.
+
+Create homepage content for a travel agency called Skyline Travels located in Vijayawada.
+
+Include:
+
+1. Hero Headline
+2. Subheadline
+3. About Us
+4. Why Choose Us
+5. Call To Action
+
+Use persuasive and customer-friendly language.
