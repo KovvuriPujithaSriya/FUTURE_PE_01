@@ -96,23 +96,25 @@ Website Screenshots
 
 Home Page
 
-"Home Page" (screenshots/homepage.png)
+🔗 "homepage.png" (screenshots/homepage.png)
 
 Services Page
 
-"Services Page" (screenshots/services.png)
+🔗 "services.png" (screenshots/services.png)
 
 About Us Page
 
-"About Us" (screenshots/about.png)
+🔗 "about.png" (screenshots/about.png)
 
 Contact Us Page
 
-"Contact Us" (screenshots/contact.png)
+🔗 "contact.png" (screenshots/contact.png)
+
+---
 
 Live Website
 
-https://crest-travels.lovable.app
+🔗 https://crest-travels.lovable.app
 
 Key Features
 
