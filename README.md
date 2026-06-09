@@ -3,9 +3,13 @@
 # AI Website Copy Generator for Local Businesses
 
 ## Business Selected
-**Crest Travels** – Travel Agency
+
+**Crest Travels – Travel Agency**
+
+---
 
 ## Objective
+
 The objective of this task is to use Prompt Engineering techniques to generate professional website content for a local business and create a functional website using AI-powered tools.
 
 ---
@@ -34,6 +38,7 @@ Business Location:
 Vijayawada, Andhra Pradesh, India
 
 Pages Required:
+
 1. Home
 2. Services
 3. About Us
@@ -44,7 +49,8 @@ Home Page:
   "Discover Your Next Adventure with Crest Travels"
 - Subheadline:
   "Affordable travel packages, expert planning, and unforgettable experiences."
-- Call-to-action button: "Book Your Trip"
+- Call-to-action button:
+  "Book Your Trip"
 
 Services:
 - Domestic Tour Packages
@@ -97,19 +103,19 @@ The AI generated:
 
 ### Home Page
 
-![Home Page](homepage.png)
+![Home Page](screenshots/homepage.png)
 
 ### Services Page
 
-![Services Page](services.png)
+![Services Page](screenshots/services.png)
 
 ### About Us Page
 
-![About Us](about.png)
+![About Us](screenshots/about.png)
 
 ### Contact Us Page
 
-![Contact Us](contact.png)
+![Contact Us](screenshots/contact.png)
 
 ---
 
@@ -119,10 +125,23 @@ The AI generated:
 
 ---
 
+## Key Features
+
+- Modern Travel Agency Design
+- Mobile Responsive Layout
+- Travel Packages Section
+- Service Highlights
+- Contact Form
+- Professional UI/UX
+- Easy Navigation
+- AI-Generated Website Content
+
+---
+
 ## Learning Outcomes
 
 - Learned Prompt Engineering techniques
-- Generated business website content using AI
+- Generated professional website copy using AI
 - Improved prompt refinement skills
 - Built and deployed a website using Lovable
 - Managed project files using GitHub
@@ -132,30 +151,39 @@ The AI generated:
 
 ## Repository Structure
 
-FUTURE_PE_01
+```
 
+FUTURE_PE_01/
+│
 ├── README.md
-
 ├── prompts.md
-
 ├── outputs.md
-
+│
+└── screenshots/
 ├── homepage.png
-
 ├── services.png
-
 ├── about.png
-
 └── contact.png
+
+```
+
+---
+
+## Live Project
+
+Website Link:
+https://crest-travels.lovable.app
 
 ---
 
 ## Submitted For
 
-Future Interns – Prompt Engineering Internship Task 1 (2026)
+Future Interns – Prompt Engineering Internship
 
-Topic:
-**AI Website Copy Generator for Local Businesses**
+### Task 1
 
-Business Chosen:
-**Crest Travels**
+AI Website Copy Generator for Local Businesses
+
+### Business Chosen
+
+Crest Travels – Travel Agency
