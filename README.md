@@ -1,36 +1,28 @@
-# FUTURE_PE_01
+FUTURE_PE_01
 
-# AI Website Copy Generator for Local Businesses
+AI Website Copy Generator for Local Businesses
 
-## Business Selected
+Business Selected
 
-**Crest Travels – Travel Agency**
+Crest Travels – Travel Agency
 
----
+Objective
 
-## Objective
+This project demonstrates the use of Prompt Engineering to generate professional website content for a local business and create a fully functional website using AI tools.
 
-The objective of this task is to use Prompt Engineering techniques to generate professional website content for a local business and create a functional website using AI-powered tools.
-
----
-
-## Tools Used
+Tools Used
 
 - ChatGPT
 - Lovable
 - GitHub
 
----
+Business Description
 
-## Business Description
+Crest Travels is a travel agency that provides customized travel planning, domestic and international tour packages, flight bookings, hotel reservations, and holiday planning services.
 
-Crest Travels is a travel agency that helps customers plan memorable journeys through customized travel packages, flight bookings, hotel reservations, and holiday planning services.
+Prompt Used
 
----
-
-## Prompt Used
-
-### Prompt Version 1
+Prompt Version 1
 
 Create a professional and modern travel agency website called Crest Travels.
 
@@ -45,6 +37,7 @@ Pages Required:
 4. Contact Us
 
 Home Page:
+
 - Hero section with headline:
   "Discover Your Next Adventure with Crest Travels"
 - Subheadline:
@@ -53,6 +46,7 @@ Home Page:
   "Book Your Trip"
 
 Services:
+
 - Domestic Tour Packages
 - International Tour Packages
 - Flight Ticket Booking
@@ -63,6 +57,7 @@ About Us:
 Crest Travels helps travelers explore destinations with customized travel solutions, reliable bookings, and excellent customer support.
 
 Why Choose Us:
+
 - Affordable Packages
 - Trusted Travel Experts
 - Personalized Itineraries
@@ -70,21 +65,21 @@ Why Choose Us:
 - Easy Booking
 
 Contact Page:
+
 - Contact Form
 - Phone Number
 - Email Address
 - Office Location
 
 Design Requirements:
+
 - Travel-themed images
 - Modern layout
 - Mobile responsive
 - Professional colors
 - Attractive CTA sections
 
----
-
-## Output Generated
+Output Generated
 
 The AI generated:
 
@@ -92,98 +87,80 @@ The AI generated:
 - Services Page
 - About Us Page
 - Contact Us Page
-- Modern Travel Agency Layout
-- Mobile Responsive Design
-- Professional Travel Branding
-- Contact Form Integration
-
----
-
-## Website Screenshots
-
-### Home Page
-
-![Home Page](screenshots/homepage.png)
-
-### Services Page
-
-![Services Page](screenshots/services.png)
-
-### About Us Page
-
-![About Us](screenshots/about.png)
-
-### Contact Us Page
-
-![Contact Us](screenshots/contact.png)
-
----
-
-## Live Website
-
-🔗 https://crest-travels.lovable.app
-
----
-
-## Key Features
-
-- Modern Travel Agency Design
-- Mobile Responsive Layout
-- Travel Packages Section
-- Service Highlights
+- Travel Package Showcase
+- Responsive Design
+- Professional Branding
 - Contact Form
-- Professional UI/UX
-- Easy Navigation
-- AI-Generated Website Content
 
----
+Website Screenshots
 
-## Learning Outcomes
+Home Page
 
-- Learned Prompt Engineering techniques
-- Generated professional website copy using AI
-- Improved prompt refinement skills
-- Built and deployed a website using Lovable
-- Managed project files using GitHub
-- Documented AI-generated outputs professionally
+"Home Page" (screenshots/homepage.png)
 
----
+Services Page
 
-## Repository Structure
+"Services Page" (screenshots/services.png)
 
-```
+About Us Page
 
-FUTURE_PE_01/
-│
-├── README.md
-├── prompts.md
-├── outputs.md
-│
-└── screenshots/
-├── homepage.png
-├── services.png
-├── about.png
-└── contact.png
+"About Us" (screenshots/about.png)
 
-```
+Contact Us Page
 
----
+"Contact Us" (screenshots/contact.png)
 
-## Live Project
+Live Website
 
-Website Link:
 https://crest-travels.lovable.app
 
----
+Key Features
 
-## Submitted For
+- Modern Travel Agency Website
+- Mobile Responsive Design
+- Travel Package Information
+- Professional User Interface
+- Contact Form Integration
+- Easy Navigation
+- AI Generated Content
+
+Learning Outcomes
+
+- Learned Prompt Engineering concepts
+- Generated website content using AI
+- Improved prompt design and refinement skills
+- Built a website using Lovable
+- Managed project documentation with GitHub
+- Created a professional project repository
+
+Repository Structure
+
+FUTURE_PE_01/
+
+├── README.md
+
+├── prompts.md
+
+├── outputs.md
+
+└── screenshots/
+
+  ├── homepage.png
+
+  ├── services.png
+
+  ├── about.png
+
+  └── contact.png
+
+Submitted For
 
 Future Interns – Prompt Engineering Internship
 
-### Task 1
+Task 1
 
 AI Website Copy Generator for Local Businesses
 
-### Business Chosen
+Business Chosen
 
 Crest Travels – Travel Agency
